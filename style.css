@@ -1,4 +1,29 @@
-body{
+*,
+*::before,
+*::after{
     margin: 0;
     padding: 0;
+    box-sizing: inherit;
+}
+
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+@media only screen and (max-width:75em){
+    html{
+        font-size: 50%;
+    }
+}
+
+body{
+    background-image: url('bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 1.6;
 }

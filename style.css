@@ -127,9 +127,19 @@ margin-top: 2.5rem;
 .skladniki__3,
 .skladniki__4{
 font-size: 1.5rem;
-margin-left: 5rem;
+margin-left: 3rem;
+margin-right: 3rem;
 display: flex;
 align-items: center;
+}
+
+.price {
+    font-size: 2rem;
+display: flex;
+align-items: center;
+justify-content: center;
+color: brown;
+margin-left: 50px;
 }
 
 .btn{

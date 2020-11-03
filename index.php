@@ -10,7 +10,8 @@
     <nav>
 <h2>Wykonawca:</h2>
 <p class="podpis">Rafał Bakowski grupa:  2</p>
-<a href="cards.html">cards</a>
+<a href="cards.html"> <img src="https://sklep.orimed.pl/img/cms/karty.png"
+width="150px" height="70px"></a> link do kart w obrazku wyzej 
 
     </nav>
 <left-side>
